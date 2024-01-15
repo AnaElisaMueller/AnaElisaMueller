@@ -1,6 +1,6 @@
 ###  (っ＾▿＾)っ ¿Buenas?
 
-✿ Eu estou estudando e aprimorando C, HTML5, CSS3... <br>
+✿ Eu estou estudando e aprimorando C, HTML5, CSS3, PHP... <br>
 🏫 Faculdade de Engenharia de Computação em andamento. <br>
 🔭 Buscando ser capaz de tirar minhas ideias do papel! <br>
 <br>
