@@ -9,6 +9,6 @@
 
 <div>
 <a href="https://github.com/AnaElisaMueller">
-<img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=AnaElisaMueller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaElisaMueller&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=AnaElisaMueller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaElisaMueller&layout=compact&langs_count=16&theme=dracula"/>
 </div>
