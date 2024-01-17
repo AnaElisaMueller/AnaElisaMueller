@@ -5,7 +5,7 @@
 🔭 Buscando ser capaz de tirar minhas ideias do papel! <br>
 <br>
  ʕ•ᴥ•ʔ 
-<!-- falta configurar ![Snake animation](https://github.com/AnaElisaMueller/AnaElisaMueller/blob/output/github-contribution-grid-snake.svg)  >
+<!-- falta configurar ![Snake animation](https://github.com/AnaElisaMueller/AnaElisaMueller/blob/output/github-contribution-grid-snake.svg)  -->
 
 <div>
 <a href="https://beacons.ai/AnaElisaMueller">
