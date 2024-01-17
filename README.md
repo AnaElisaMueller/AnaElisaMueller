@@ -8,7 +8,7 @@
 <!-- falta configurar ![Snake animation](https://github.com/AnaElisaMueller/AnaElisaMueller/blob/output/github-contribution-grid-snake.svg)  -->
 
 <div>
-<a href="https://beacons.ai/AnaElisaMueller">
+<a href="https://github.com/AnaElisaMueller">
 <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=AnaElisaMueller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180cm" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaElisaMueller&layout=compact&langs_count=16&theme=dracula"/>
 </div>
